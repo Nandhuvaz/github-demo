@@ -40,5 +40,3 @@ captcha_image.save("captcha_test.png")
 captcha_image.show()
 
 print("Captcha image created and displayed successfully!")
-
-
